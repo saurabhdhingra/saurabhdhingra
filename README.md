@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Dhingra</h1>
-<h3 align="center">A Flutter developer currently learning about web 3.0.</h3>
+<h3 align="center">A Flutter developer currently learning about backend development.</h3>
 
 <p align="left"> <a href="https://twitter.com/saurabhdhingraa" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhdhingraa?logo=twitter&style=for-the-badge" alt="saurabhdhingraa" /></a> </p>
 
