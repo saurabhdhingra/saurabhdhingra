@@ -22,12 +22,11 @@ Software Developer | Mobile | Backend
 ---
 
 ## Let's Connect!
-- 📧 [saurabh20work@gmail.com](mailto:saurabh20work@gmail.com)
-- 🌐 [bento.me/saurabhdhingra](https://bento.me/saurabhdhingra)
-- 💼 [LinkedIn](https://www.linkedin.com/in/saurabhdhingraa/)
-- 🛠️ [GitHub](https://github.com/saurabhdhingra)
-- 🎥 [YouTube](https://www.youtube.com/@saurabhdhingraa)
-- 🐦 [Twitter/X](https://x.com/saurabhdhingraa)
+- [saurabh20work@gmail.com](mailto:saurabh20work@gmail.com)
+- [bento.me/saurabhdhingra](https://bento.me/saurabhdhingra)
+- [LinkedIn](https://www.linkedin.com/in/saurabhdhingraa/)
+- [YouTube](https://www.youtube.com/@saurabhdhingraa)
+- [Twitter/X](https://x.com/saurabhdhingraa)
 
 ---
 
