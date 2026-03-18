@@ -5,9 +5,9 @@ Software Developer | Mobile | Backend
 ---
 
 ## About Me
-- Was working as a Software Developer (Flutter) at **Zethic Technologies**.
-- Previously worked at **EaseMyDeal**, building scalable and secure payment flows.
-- B.Tech in Computer Science from **GGSIPU**, graduated in 2024 (GPA: 8.6).
+- Was working as a Software Developer (Flutter) at **Apna Mart**.
+- Previously worked at **EaseMyDeal**, built scalable and secure payment flows and **Zethic Technologies** delivered several projects across domains.
+- B.Tech in Computer Science from **GGSIPU**.
 - Passionate about building products that blend great tech with real-world impact.
 - Optimized trading strategies using Genetic Algorithms to enhance Bollinger Bands and RSI performance.
 
