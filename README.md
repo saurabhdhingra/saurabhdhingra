@@ -23,7 +23,6 @@ Software Developer | Mobile | Backend
 
 ## Let's Connect!
 - [saurabh20work@gmail.com](mailto:saurabh20work@gmail.com)
-- [bento.me/saurabhdhingra](https://bento.me/saurabhdhingra)
 - [LinkedIn](https://www.linkedin.com/in/saurabhdhingraa/)
 - [Twitter/X](https://x.com/saurabhdhingraa)
 
