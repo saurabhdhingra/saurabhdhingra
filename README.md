@@ -5,7 +5,7 @@ Software Developer | Mobile | Backend
 ---
 
 ## About Me
-- Working as a Software Developer (Flutter) at **Apna Mart**.
+- Working as a Software Development Engineer 1 (Mobile) at **Apna Mart**.
 - Previously worked at **EaseMyDeal**, built scalable and secure payment flows and **Zethic Technologies** delivered several projects across domains.
 - B.Tech in Computer Science from **GGSIPU**.
 - Passionate about building products that blend great tech with real-world impact.
